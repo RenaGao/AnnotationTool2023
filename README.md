@@ -30,5 +30,5 @@ This is the Span Annotation website source code for dialogue corpus annotation
 8. **Download Results**
    - After completing annotations, click the `Download` button at the bottom of the page to download the output.
 
-9. **Upload to Google Drive**
-   - Upload the output file to the corresponding Google Drive folder.
+9. **Customize Your Own Labels**
+   - Use the `Add Label` button to add your label based on your tasks. 
