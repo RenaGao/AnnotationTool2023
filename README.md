@@ -2,15 +2,7 @@
 This is the Span Annotation website source code for dialogue corpus annotation
 
 # Cite 
-@misc{gao2024interactionmattersevaluationframework,
-      title={Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations}, 
-      author={Rena Gao and Carsten Roever and Jey Han Lau},
-      year={2024},
-      eprint={2407.06479},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.06479}, 
-}
+Gao et al. 2024: https://arxiv.org/abs/2407.06479
 
 # How to Use the Annotation Tool
 
